@@ -285,9 +285,9 @@ def main():
  
         if st.button("Fact-Check Response"):
  
-            api_key = "AIzaSyBCi3OxYr2UqJ5CScaUrMAXcAtBcGtr8CA"
+            api_key = ""
  
-            cse_id = "73536e2a6ab9e4e89"
+            cse_id = ""
  
             st.write("Fact-checking the response...")
  
